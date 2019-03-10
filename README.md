@@ -1,4 +1,4 @@
-# Agriculture Commodities Prices and Seasons
+# Agriculture Commodities, Prices and Seasons
 Aim: Your team is working on building a variety of insight packs to measure key trends in the Agriculture sector in India. You are presented with a data set around Agriculture and your aim is to understand trends in APMC (Agricultural produce market committee)/mandi price & quantity arrival data for different commodities in Maharashtra.
 
 
