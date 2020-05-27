@@ -39,9 +39,6 @@ The methodology followed for this assignment was to first check for missing valu
 The plot of Commodity vs. the MSP
 ![barplot](./barplot.png)
 
-The plot of Commodity vs. Count of commodity produced
-![countplot](./countplot.png)
-
 
 ## Final Results
 The price differences in the minimum price set by the Government and the actual price that the commoditites are sold for may be due to a few reasons, one of which can be that the transportation cost involved may be too high for select commoditites.
